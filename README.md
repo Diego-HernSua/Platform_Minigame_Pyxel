@@ -1,16 +1,19 @@
 # PlatForm Game 2.0
 
-My first video game was developed in Python using the Pyxel package, where I created a basic platformer game where a character must reach the end of a level while avoiding enemies and obstacles. The game has several errors, but it helped me learn a lot about Python and provided an introduction to the world of game development.
+🎮 **My first video game** was developed in Python using the Pyxel package. In this game, a character must navigate through a level, avoiding enemies and obstacles. Although the game has several errors, it served as a valuable learning experience for Python and provided an introduction to game development.
 
 ---
-## How to Run the Game
+
+## 🚀 How to Run the Game
 
 To run the game developed using Pyxel, follow these steps:
 
-### Prerequisites
+### 📋 Prerequisites
 
-1. **Install Python**: Ensure that Python (version 3.6 or higher) is installed on your system.
-2. **Install Pyxel**: Install the Pyxel package via pip if you haven't already. Open your terminal or command prompt and run: _pip install pyxel_
+1. **Install Python**: Make sure Python (version 3.6 or higher) is installed on your system.
+2. **Install Pyxel**: Install the Pyxel package via pip if you haven't already. Open your terminal or command prompt and run:
+   ```bash
+   pip install pyxel
 
 ### Setup
 1. Download the Source Code: Clone or download the repository containing the game's source code from GitHub.
